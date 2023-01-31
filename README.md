@@ -18,4 +18,4 @@ O segundo dataset chamado de desafio_manutencao_preditiva_teste possui 3333 linh
 2. No terminal, rode o seguinte comando para conseguir utilizar o notebook:
 ```conda install -n test ipykernel --update-deps --force-reinstall```
 3. Por fim, deve-se também fazer a instalação dos pacotes referenciados no arquivo *requirements.txt*, usando o comando ```pip install -r requirements.txt```, disponível na primeira célula executável do notebook.
-- Todas as explicações e discussões referente ao desafio, assim como o modelo escolhido e o código para gerar a predição estão presentes no arquivo *Relatório_desafio.ipynb*.
+4. Todas as explicações e discussões referente ao desafio, assim como o modelo escolhido e o código para gerar a predição estão presentes no arquivo *Relatório_desafio.ipynb*.
