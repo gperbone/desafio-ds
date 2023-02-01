@@ -1,4 +1,5 @@
 # Desafio Cientista de Dados
+![imagem ilustrativa](https://media.noria.com/sites/Uploads/2019/12/2/893832dd-040a-47bf-a87c-ca7f15d732d9_ArticleImages_RP31702_1234x694_12022019_extra_large.jpeg)
 
 O objetivo do desafio é identificar quais máquinas apresentam potencial de falha tendo como base dados extraídos através de sensores durante o processo de manufatura.  Para isso são fornecidos dois datasets: um dataset chamado desafio_manutencao_preditiva_treino composto por 6667 linhas, 9 colunas de informação (features) e a variável a ser prevista (“failure_type”). 
 
