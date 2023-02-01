@@ -4,6 +4,9 @@ O objetivo do desafio é identificar quais máquinas apresentam potencial de fal
 
 O segundo dataset chamado de desafio_manutencao_preditiva_teste possui 3333 linhas e 8 colunas e não possui a coluna “failure_type”. O objetivo é prever essa coluna a partir dos dados enviados.
 
+# Resultado
+O modelo final escolhido foi o RandomForest, que teve uma performance em validação com acurácia de 0,94 e ótimos valores de precisão e recall. Ele se mostrou ser um modelo 'conservador', o que é ideal para uma situação em que queremos prever as falhas de uma máquina.
+
 # Itens a serem entregues
 1. Descrição gráfica dos dados disponíveis e principais estatísticas descritivas; :white_check_mark:
 2. Explicação de como a previsão foi feita, quais variáveis e/ou transformações foram utilizadas, qual o tipo de previsão (regressão, classificação) e qual foi o modelo escolhido, além de seus prós e contras. Por fim, deve ser apresentada a performance do modelo e a razão da escolha; :white_check_mark:
